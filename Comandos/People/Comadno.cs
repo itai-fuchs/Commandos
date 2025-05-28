@@ -6,14 +6,7 @@ using System.Threading.Tasks;
 
 namespace Comandos
 {
-    public enum Tool
-    {
-        Hammer,
-        Chisel,
-        Rope,
-        Bag,
-        WaterBottle
-    }
+   
 
     /// <summary>
     /// claas that create a comando solider
@@ -37,10 +30,10 @@ namespace Comandos
         protected string CodeName { get; set; }
 
         //solider status
-        protected string Status { get; private set; }
+        protected Enum.PeopleStatus status{ get; private set; }
 
         //solider tools
-        protected Tool[] tools = { Tool.Hammer, Tool.Chisel, Tool.Rope, Tool.Bag, Tool.WaterBottle };
+        protected  Enum.Tool[] tool ={ Enum.Tool.Hammer, Enum.Tool.Chisel, Enum.Tool.Rope, Enum.Tool.Bag, Enum.Tool.WaterBottle};
 
 
         //constractor
@@ -48,7 +41,7 @@ namespace Comandos
         {
             Name = name;
             CodeName = codeName;
-            Status = "standing";
+            status = Enum.PeopleStatus.standing;
 
 
 
@@ -57,14 +50,14 @@ namespace Comandos
         public void Walk()
         {
             Console.WriteLine("The commando is going");
-            Status = "walking";
+            status = Enum.PeopleStatus.walking; 
         }
 
         //is hiding method
         public void Hide()
         {
             Console.WriteLine("The commando is hiding");
-            Status = "hiding";
+            status = Enum.PeopleStatus.hiding;
         }
 
         //is attacking method

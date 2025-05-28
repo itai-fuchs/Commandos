@@ -10,7 +10,7 @@ namespace Comandos
     {
         public AirComando(string name, string Codename) : base(name, Codename) { }
 
-        public void parachuting()
+        public void Parachuting()
         {
             Console.WriteLine("The soldier performs a parachute jump");
         }

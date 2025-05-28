@@ -15,15 +15,15 @@ namespace Comandos
             comandos = new List<Comando>();
         }
 
-        public void CreateComando(string name, string codename, string Kind)
+        public void CreateComando(string name, string codename, Enum.Comando Kind)
         {
             Comando comando;
-            switch (Kind.ToLower())
+            switch (Kind)
             {
-                case "seacomando":
+                case Enum.Comando.Sea:
                     comando = new SeaComando(name, codename);
                     break;
-                case "aircomando":
+                case Enum.Comando.Air:
                     comando = new AirComando(name, codename);
                     break;
 

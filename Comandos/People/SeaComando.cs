@@ -10,12 +10,7 @@ namespace Comandos
     {
         public SeaComando(string name, string Codename) : base(name, Codename) { }
 
-
-
-
-
-
-        public void swiming()
+        public void Swiming()
         {
             Console.WriteLine("The soldier is swiming");
         }

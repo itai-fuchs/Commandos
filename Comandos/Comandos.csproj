@@ -43,19 +43,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AirComando.cs" />
-    <Compile Include="Comadno.cs" />
-    <Compile Include="ComandoFactory.cs" />
-    <Compile Include="EnemayFactory.cs" />
-    <Compile Include="Eneny.cs" />
+    <Compile Include="People\AirComando.cs" />
+    <Compile Include="People\Comadno.cs" />
+    <Compile Include="Factory\ComandoFactory.cs" />
+    <Compile Include="Factory\EnemayFactory.cs" />
+    <Compile Include="People\Eneny.cs" />
+    <Compile Include="Enum.cs" />
     <Compile Include="Game.cs" />
-    <Compile Include="Knife.cs" />
-    <Compile Include="Stone.cs" />
+    <Compile Include="Weapons\IBreakable.cs" />
+    <Compile Include="Weapons\IShootable.cs" />
+    <Compile Include="Weapons\Knife.cs" />
+    <Compile Include="Weapons\Stone.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SeaComando.cs" />
-    <Compile Include="WeaponFactory.cs" />
-    <Compile Include="Weapons.cs" />
+    <Compile Include="People\SeaComando.cs" />
+    <Compile Include="Factory\WeaponFactory.cs" />
+    <Compile Include="Weapons\Gun.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

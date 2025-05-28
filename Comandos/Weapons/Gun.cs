@@ -8,26 +8,29 @@ using System.Threading.Tasks;
 
 namespace Comandos
 {
-    internal class Weapeon
+    internal class Gun : IShootable
     {
-        public string Name { get; }
-        public string Manufacturer { get; }
-        public int NumberOfBullets { get; private set; }
-        private int capasity;
+       public int curentNumOfBullets { get; set; }
 
-        public Weapeon(string name, string manufacturer, int numberOfBullets)
+        public int capacity { get; set; }
+
+        public string Name { get; set; }
+
+        public string Manufacturer { get; set; }
+
+        public Gun (string name, string manufacturer, int numberOfBullets)
         {
             Name = name;
             Manufacturer = manufacturer;
-            NumberOfBullets = numberOfBullets;
-            capasity = numberOfBullets;
+            curentNumOfBullets = numberOfBullets;
+            capacity = numberOfBullets;
         }
         public void Shoot()
         {
-            if (NumberOfBullets > 0)
+            if (curentNumOfBullets > 0)
             {
                 Console.WriteLine("shooting");
-                NumberOfBullets--;
+                curentNumOfBullets--;
             }
             else
             {
@@ -37,7 +40,7 @@ namespace Comandos
 
         public void Cartridge_refill()
         {
-            NumberOfBullets = capasity;
+            curentNumOfBullets = capacity;
         }
 
 

@@ -20,7 +20,7 @@ namespace Comandos
             enemyFactory.CreateEnemy(name);
         }
 
-     public void CreateComando(string name,string codeName, string kind)
+     public void CreateComando(string name,string codeName, Enum.Comando kind)
         {
            
             comandoFactory.CreateComando(name, codeName,kind);
