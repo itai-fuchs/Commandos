@@ -1,0 +1,8 @@
+C:\Users\itai\source\repos\Comandos\Comandos\obj\Debug\Comandos.csproj.AssemblyReference.cache
+C:\Users\itai\source\repos\Comandos\Comandos\obj\Debug\Comandos.csproj.CoreCompileInputs.cache
+C:\Users\itai\source\repos\Comandos\Comandos\bin\Debug\Comandos.exe.config
+C:\Users\itai\source\repos\Comandos\Comandos\bin\Debug\Comandos.exe
+C:\Users\itai\source\repos\Comandos\Comandos\bin\Debug\Comandos.pdb
+C:\Users\itai\source\repos\Comandos\Comandos\obj\Debug\Comandos.exe
+C:\Users\itai\source\repos\Comandos\Comandos\obj\Debug\Comandos.pdb
+C:\Users\itai\source\repos\Comandos\Comandos\obj\Debug\Comandos.exe.config
