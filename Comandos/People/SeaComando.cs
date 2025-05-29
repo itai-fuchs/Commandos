@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Comandos
+namespace Commandos
 {
-    internal class SeaComando:Comando
+    internal class SeaCommando:Commando
     {
-        public SeaComando(string name, string Codename) : base(name, Codename) { }
+        public SeaCommando(string name, string Codename) : base(name, Codename) { }
 
         public void Swiming()
         {

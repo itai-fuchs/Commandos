@@ -3,45 +3,61 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static Commandos.Enum;
 
-namespace Comandos
+namespace Commandos
 {
    
 
     /// <summary>
     /// claas that create a comando solider
     /// </summary>
-    internal class Comando
+    internal class Commando
     {
 
-        //nsolider name
+        //solider name
         protected string Name;
-        public string SayName(string commanderRank)
+        public string SayName(Enum.SoliderRank commanderRank)
         {
-            if (commanderRank == "GENERAL") return Name;
-            else if (commanderRank == "COLONEL") return CodeName;
+            if (commanderRank ==Enum.SoliderRank.General ) return Name;
+            else if (commanderRank == Enum.SoliderRank.Colonel) return CodeName;
             else Console.WriteLine("classified information");
             return "";
 
 
         }
 
-        //solider random codeName
+        //solider codeName
         protected string CodeName { get; set; }
 
         //solider status
         protected Enum.PeopleStatus status{ get; private set; }
 
         //solider tools
-        protected  Enum.Tool[] tool ={ Enum.Tool.Hammer, Enum.Tool.Chisel, Enum.Tool.Rope, Enum.Tool.Bag, Enum.Tool.WaterBottle};
+        protected List<Enum.Tool> tools;
 
+        //solider  weapon
+
+        protected List<Enum.WeaponType> weapon{ get; set; }
 
         //constractor
-        public Comando(string name, string codeName)
+        public Commando(string name, string codeName)
         {
             Name = name;
             CodeName = codeName;
             status = Enum.PeopleStatus.standing;
+            this.weapon = WeaponFactory.
+            
+            this.tools = new List<Enum.Tool>
+{
+    Enum.Tool.Hammer,
+    Enum.Tool.Chisel,
+    Enum.Tool.Rope,
+    Enum.Tool.Bag,
+    Enum.Tool.WaterBottle
+};
+
+
 
 
 

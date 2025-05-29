@@ -1,12 +1,13 @@
-﻿using System;
+﻿using Commandos.Weapons;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
-using static Comandos.Enum;
+using static Commandos.Enum;
 
-namespace Comandos
+namespace Commandos
 {
     public class WeaponFactory
     {
@@ -17,16 +18,16 @@ namespace Comandos
             weapons = new List<Enum.WeaponType>();
         }
 
-        public void CreateWeapon(Enum.WeaponType Weapon)
+        public void CreateWeapon(Enum.WeaponType Weapontype)
         {
 
 
-            switch (Weapon)
+            switch (Weapontype)
             {
-                case Enum.WeaponType.Knife
-                    Weapon = new Knife();
+                case Enum.WeaponType.AK47:
+                    AK47 Weapon = new();
                     break;
-                case Enum.Comando.Air:
+                case Enums.Comando.Air:
                     comando = new AirComando(name, codename);
                     break;
 
@@ -40,6 +41,7 @@ namespace Comandos
     }
 
 
-}
 
+
+}
 }

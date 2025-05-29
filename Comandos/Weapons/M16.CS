@@ -1,16 +1,15 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Commandos
+namespace Commandos.Weapons
 {
-    internal class Gun : IShootable
+    internal class M16:IShootable
     {
-       public int curentNumOfBullets { get; set; }
+
+        public int curentNumOfBullets { get; set; }
 
         public int capacity { get; set; }
 
@@ -18,7 +17,7 @@ namespace Commandos
 
         public string Manufacturer { get; set; }
 
-        public Gun (string name, string manufacturer, int numberOfBullets)
+        public M16(string name, string manufacturer, int numberOfBullets)
         {
             Name = name;
             Manufacturer = manufacturer;
@@ -46,4 +45,3 @@ namespace Commandos
 
     }
 }
-

@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Comandos
+
+namespace Commandos
 {
     internal class Enum
     {
@@ -43,6 +44,14 @@ namespace Comandos
             M16,
             AK47,
 
+        }
+
+
+        public enum SoliderRank
+        {
+            General,
+            Colonel,
+            
         }
     }
 }

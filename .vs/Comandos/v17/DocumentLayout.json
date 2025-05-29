@@ -3,60 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\itai\\source\\repos\\Comandos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|c:\\users\\itai\\source\\repos\\comandos\\comandos\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\people\\eneny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\people\\eneny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|c:\\users\\itai\\source\\repos\\comandos\\comandos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|c:\\users\\itai\\source\\repos\\comandos\\comandos\\people\\comadno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\people\\comadno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\factory\\weaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\factory\\weaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\factory\\comandofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\factory\\comandofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\factory\\enemayfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\factory\\enemayfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\weapons\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\weapons\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\weapons\\ishootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\weapons\\ishootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Comadno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Comandos\\Comadno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\IShootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Comandos\\IShootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\weapons\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\weapons\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Comandos\\Knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\weapons\\m16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\weapons\\m16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Comandos\\Stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\weapons\\ibreakable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\weapons\\ibreakable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\ComandoFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Comandos\\ComandoFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\weapons\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\weapons\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Eneny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Comandos\\Eneny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\weapons\\ak47.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\weapons\\ak47.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\EnemayFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Comandos\\EnemayFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\people\\seacomando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\people\\seacomando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Comandos\\Weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\WeaponFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Comandos\\WeaponFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\SeaComando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Comandos\\SeaComando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\AirComando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Comandos\\AirComando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|C:\\Users\\itai\\source\\repos\\Comandos\\comandos\\people\\aircomando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD41562-B9EB-4CB0-8F7D-247175DA4B72}|Comandos\\Comandos.csproj|solutionrelative:comandos\\people\\aircomando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,20 +82,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Comadno.cs",
-              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Comadno.cs",
-              "RelativeDocumentMoniker": "Comandos\\Comadno.cs",
-              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Comadno.cs",
-              "RelativeToolTip": "Comandos\\Comadno.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:38:18.031Z",
-              "IsPinned": true
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\App.config",
+              "RelativeDocumentMoniker": "Comandos\\App.config",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\App.config",
+              "RelativeToolTip": "Comandos\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-29T07:48:37.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -87,160 +103,209 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Enum.cs",
-              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Enum.cs",
-              "RelativeDocumentMoniker": "Comandos\\Enum.cs",
-              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Enum.cs",
-              "RelativeToolTip": "Comandos\\Enum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T09:36:55.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IShootable.cs",
-              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\IShootable.cs",
-              "RelativeDocumentMoniker": "Comandos\\IShootable.cs",
-              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\IShootable.cs",
-              "RelativeToolTip": "Comandos\\IShootable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\IShootable.cs",
+              "RelativeDocumentMoniker": "Comandos\\Weapons\\IShootable.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\IShootable.cs",
+              "RelativeToolTip": "Comandos\\Weapons\\IShootable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T09:26:54.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Knife.cs",
-              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Knife.cs",
-              "RelativeDocumentMoniker": "Comandos\\Knife.cs",
-              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Knife.cs",
-              "RelativeToolTip": "Comandos\\Knife.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T09:02:26.182Z"
+              "WhenOpened": "2025-05-29T06:30:33.565Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Stone.cs",
-              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Stone.cs",
-              "RelativeDocumentMoniker": "Comandos\\Stone.cs",
-              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Stone.cs",
-              "RelativeToolTip": "Comandos\\Stone.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
+              "Title": "Knife.cs",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\Knife.cs",
+              "RelativeDocumentMoniker": "Comandos\\Weapons\\Knife.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\Knife.cs",
+              "RelativeToolTip": "Comandos\\Weapons\\Knife.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wC0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T08:50:55.899Z"
+              "WhenOpened": "2025-05-29T06:30:36.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Game.cs",
-              "RelativeDocumentMoniker": "Comandos\\Game.cs",
-              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Game.cs",
-              "RelativeToolTip": "Comandos\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T08:18:18.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Program.cs",
               "RelativeDocumentMoniker": "Comandos\\Program.cs",
               "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Program.cs",
               "RelativeToolTip": "Comandos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T05:59:43.547Z"
+              "WhenOpened": "2025-05-29T06:30:51.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ComandoFactory.cs",
-              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\ComandoFactory.cs",
-              "RelativeDocumentMoniker": "Comandos\\ComandoFactory.cs",
-              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\ComandoFactory.cs",
-              "RelativeToolTip": "Comandos\\ComandoFactory.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Comadno.cs",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\People\\Comadno.cs",
+              "RelativeDocumentMoniker": "Comandos\\People\\Comadno.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\People\\Comadno.cs",
+              "RelativeToolTip": "Comandos\\People\\Comadno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:55:19.105Z"
+              "WhenOpened": "2025-05-29T06:14:40.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Eneny.cs",
-              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Eneny.cs",
-              "RelativeDocumentMoniker": "Comandos\\Eneny.cs",
-              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Eneny.cs",
-              "RelativeToolTip": "Comandos\\Eneny.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "WeaponFactory.cs",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Factory\\WeaponFactory.cs",
+              "RelativeDocumentMoniker": "Comandos\\Factory\\WeaponFactory.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Factory\\WeaponFactory.cs",
+              "RelativeToolTip": "Comandos\\Factory\\WeaponFactory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:43:43.178Z"
+              "WhenOpened": "2025-05-29T06:13:14.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "EnemayFactory.cs",
-              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\EnemayFactory.cs",
-              "RelativeDocumentMoniker": "Comandos\\EnemayFactory.cs",
-              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\EnemayFactory.cs",
-              "RelativeToolTip": "Comandos\\EnemayFactory.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Factory\\EnemayFactory.cs",
+              "RelativeDocumentMoniker": "Comandos\\Factory\\EnemayFactory.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Factory\\EnemayFactory.cs",
+              "RelativeToolTip": "Comandos\\Factory\\EnemayFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:49:40.12Z"
+              "WhenOpened": "2025-05-29T06:30:13.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Eneny.cs",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\People\\Eneny.cs",
+              "RelativeDocumentMoniker": "Comandos\\People\\Eneny.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\People\\Eneny.cs",
+              "RelativeToolTip": "Comandos\\People\\Eneny.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:20:50.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComandoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Factory\\ComandoFactory.cs",
+              "RelativeDocumentMoniker": "Comandos\\Factory\\ComandoFactory.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Factory\\ComandoFactory.cs",
+              "RelativeToolTip": "Comandos\\Factory\\ComandoFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:04:13.658Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Weapons.cs",
-              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons.cs",
-              "RelativeDocumentMoniker": "Comandos\\Weapons.cs",
-              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons.cs",
-              "RelativeToolTip": "Comandos\\Weapons.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Game.cs",
+              "RelativeDocumentMoniker": "Comandos\\Game.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Game.cs",
+              "RelativeToolTip": "Comandos\\Game.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:42:41.676Z"
+              "WhenOpened": "2025-05-29T06:21:14.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Enum.cs",
+              "RelativeDocumentMoniker": "Comandos\\Enum.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Enum.cs",
+              "RelativeToolTip": "Comandos\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:07:39.05Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "WeaponFactory.cs",
-              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\WeaponFactory.cs",
-              "RelativeDocumentMoniker": "Comandos\\WeaponFactory.cs",
-              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\WeaponFactory.cs",
-              "RelativeToolTip": "Comandos\\WeaponFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Title": "Stone.cs",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\Stone.cs",
+              "RelativeDocumentMoniker": "Comandos\\Weapons\\Stone.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\Stone.cs",
+              "RelativeToolTip": "Comandos\\Weapons\\Stone.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:51:15.591Z"
+              "WhenOpened": "2025-05-29T06:30:41.552Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "SeaComando.cs",
-              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\SeaComando.cs",
-              "RelativeDocumentMoniker": "Comandos\\SeaComando.cs",
-              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\SeaComando.cs",
-              "RelativeToolTip": "Comandos\\SeaComando.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Title": "M16.CS",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\M16.CS",
+              "RelativeDocumentMoniker": "Comandos\\Weapons\\M16.CS",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\M16.CS",
+              "RelativeToolTip": "Comandos\\Weapons\\M16.CS",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:41:48.136Z"
+              "WhenOpened": "2025-05-29T06:09:06.944Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "AirComando.cs",
-              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\AirComando.cs",
-              "RelativeDocumentMoniker": "Comandos\\AirComando.cs",
-              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\AirComando.cs",
-              "RelativeToolTip": "Comandos\\AirComando.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Title": "IBreakable.cs",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\IBreakable.cs",
+              "RelativeDocumentMoniker": "Comandos\\Weapons\\IBreakable.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\IBreakable.cs",
+              "RelativeToolTip": "Comandos\\Weapons\\IBreakable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:37:38.944Z"
+              "WhenOpened": "2025-05-29T06:09:28.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\Gun.cs",
+              "RelativeDocumentMoniker": "Comandos\\Weapons\\Gun.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\Gun.cs",
+              "RelativeToolTip": "Comandos\\Weapons\\Gun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:09:30.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AK47.cs",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\AK47.cs",
+              "RelativeDocumentMoniker": "Comandos\\Weapons\\AK47.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\Weapons\\AK47.cs",
+              "RelativeToolTip": "Comandos\\Weapons\\AK47.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:10:51.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SeaComando.cs",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\People\\SeaComando.cs",
+              "RelativeDocumentMoniker": "Comandos\\People\\SeaComando.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\People\\SeaComando.cs",
+              "RelativeToolTip": "Comandos\\People\\SeaComando.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:20:41.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AirComando.cs",
+              "DocumentMoniker": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\People\\AirComando.cs",
+              "RelativeDocumentMoniker": "Comandos\\People\\AirComando.cs",
+              "ToolTip": "C:\\Users\\itai\\source\\repos\\Comandos\\Comandos\\People\\AirComando.cs",
+              "RelativeToolTip": "Comandos\\People\\AirComando.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:20:33.997Z"
             }
           ]
         }

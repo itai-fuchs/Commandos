@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Comandos
+namespace Commandos
 {
-    internal class AirComando: Comando
+    internal class AirCommando: Commando
     {
-        public AirComando(string name, string Codename) : base(name, Codename) { }
+        public AirCommando(string name, string Codename) : base(name, Codename) { }
 
         public void Parachuting()
         {

@@ -50,9 +50,11 @@
     <Compile Include="People\Eneny.cs" />
     <Compile Include="Enum.cs" />
     <Compile Include="Game.cs" />
+    <Compile Include="Weapons\AK47.cs" />
     <Compile Include="Weapons\IBreakable.cs" />
     <Compile Include="Weapons\IShootable.cs" />
     <Compile Include="Weapons\Knife.cs" />
+    <Compile Include="Weapons\M16.CS" />
     <Compile Include="Weapons\Stone.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

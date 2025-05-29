@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Comandos
+namespace Commandos
 {
     internal  class Game
     {
@@ -26,11 +26,11 @@ namespace Comandos
             comandoFactory.CreateComando(name, codeName,kind);
         }
 
-        public void CreateWeapon(string name, string manufacturer, int numberOfBullets)
-        {
+        //public void CreateWeapon(string name, string manufacturer, int numberOfBullets)
+        //{
             
-            weaponFactory.CreateWeapon(name, manufacturer, numberOfBullets);
-        }
+        //    weaponFactory.CreateWeapon(name, manufacturer, numberOfBullets);
+        //}
 
         //public void ConsoleMeneu()
         //{

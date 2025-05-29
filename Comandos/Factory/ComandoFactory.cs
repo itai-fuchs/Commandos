@@ -4,31 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Comandos
+namespace Commandos
 {
     internal class ComandoFactory
     {
-        private List<Comando> comandos;
+        private List<Commando> comandos;
 
         public ComandoFactory()
         {
-            comandos = new List<Comando>();
+            comandos = new List<Commando>();
         }
 
         public void CreateComando(string name, string codename, Enum.Comando Kind)
         {
-            Comando comando;
+            Commando comando;
             switch (Kind)
             {
                 case Enum.Comando.Sea:
-                    comando = new SeaComando(name, codename);
+                    comando = new SeaCommando(name, codename);
                     break;
                 case Enum.Comando.Air:
-                    comando = new AirComando(name, codename);
+                    comando = new AirCommando(name, codename);
                     break;
 
                 default:
-                    comando = new Comando(name, codename);
+                    comando = new Commando(name, codename);
                     break;
 
             }
